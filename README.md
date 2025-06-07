@@ -188,12 +188,3 @@ pnpm start
 • GitHub：
 
 感谢你的关注和支持！
-
-```
-
-### 保存并提交
-将上述内容保存为 `README.md` 文件，然后提交到你的仓库中：
-```bash
-git add README.md
-git commit -m "Add README.md"
-git push origin main
