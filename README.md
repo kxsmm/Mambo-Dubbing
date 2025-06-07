@@ -1,3 +1,4 @@
+
 # Mambo Dubbing
 
 ## 中文简介
@@ -307,8 +308,6 @@ Contributions are welcome!Please follow these steps:
 
 • 作者：kxsmm
 
-• 邮箱：kxnb0819@163.com
-
-• GitHub：
+• GitHub：kxsmm
 
 感谢你的关注和支持！
